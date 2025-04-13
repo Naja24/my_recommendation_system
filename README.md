@@ -6,7 +6,7 @@
 
 ## 📃 Overview
 
-This project is a **Personalized Mentor Recommendation System** designed for CLAT aspirants to connect with suitable mentors based on their preparation preferences and learning styles. The system uses a content-based recommendation approach with clustering and similarity techniques to suggest the top 3 mentors for each aspirant.
+This project is a **Personalized Mentor Recommendation System** designed for CLAT aspirants to connect with suitable mentors based on their preparation preferences and learning styles. The system uses a content-based recommendation approach with clustering and similarity techniques to suggest the top 5 mentors for each aspirant.
 
 ---
 
